@@ -9,14 +9,14 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## JSON server
 
 Execute the following command to start JSON SERVER
-### json-server --watch db.json
+`json-server --watch db.json`
 
 If port is not available,please use following command
 
-### json-server --port 3001 --watch db.json
+`json-server --port 3001 --watch db.json`
 
 ## Run project
 
 Now in the command prompt window or in another Visual Studio Code integrated terminal execute the following command to run the project
-### ng s -o(or npm start)
+`ng s -o(or npm start)`
 
